@@ -1,6 +1,4 @@
 # First MarkDown webpage
-Hello! Welcome to [Code Institute](https://codeinstitute.net)
-
 My goal is to learn how to use GitHub and to become familiar within the world of the developer.
 
 First experience using Git programmes (GitPod and gitHub):
